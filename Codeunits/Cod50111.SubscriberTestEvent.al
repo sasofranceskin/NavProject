@@ -20,7 +20,7 @@ codeunit 50111 "SubscriberTestEvent"
                 Message('Customer has Low Warning!');
             end else
                 if Customer."Warning Level" = Customer."Warning Level"::High then begin
-                    Error('Customer has High Warning!');
+                    Error('Customer has High Warning! bla bla');
                 end;
         end;
     end;
