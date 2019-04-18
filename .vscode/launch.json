@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "bctest",
+            "server": "http://bctest",
+            "serverInstance": "NAV",
+            "authentication": "Windows",
+            "startupObjectId": 50112,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            //"schemaUpdateMode": "Recreate"
+        }
+    ]
+}
