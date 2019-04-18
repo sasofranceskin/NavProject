@@ -18,6 +18,8 @@ codeunit 50111 "SubscriberTestEvent"
         if Customer.GET(salesheader."Sell-to Customer No.") then begin
             if Customer."Warning Level" = Customer."Warning Level"::Low then begin
                 Message('Customer has Low Warning! low warning!!!!');
+                Message('Customer has Low Warning! low warning!!!!');
+                Message('Customer has Low Warning! low warning!!!!');
             end else
                 if Customer."Warning Level" = Customer."Warning Level"::High then begin
                     Error('Customer has High Warning! bla bla 1111');
