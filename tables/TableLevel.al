@@ -1,5 +1,4 @@
-table 50100
- Level
+table 50100 Level
 {
     DataClassification = ToBeClassified;
     LookupPageId = levels;
