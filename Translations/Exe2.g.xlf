@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Exe2">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1789400218 - Field 2563963320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Level - Field Warning Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1789400218 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Level - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1789400218 - Field 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Level - Field Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2658801959 - Field 2563963320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WarningLevelExt - Field Warning Level - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
